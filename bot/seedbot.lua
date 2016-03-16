@@ -228,6 +228,7 @@ function create_config( )
     "plugins",
     "myid",
     "s2a",
+    "weather",
     "cpu",
     "boobs",
     "info2",
