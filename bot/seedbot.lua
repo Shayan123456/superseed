@@ -230,6 +230,7 @@ function create_config( )
     "s2a",
     "weather",
     "cpu",
+    "inv",
     "boobs",
     "info2",
     "echo",
